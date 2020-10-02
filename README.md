@@ -48,7 +48,7 @@
 
 </a>
 <a href="https://github.com/AbhishekDoshi26/Shoppping-UI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shopping-UIX&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UIX&theme=dark" />
 </a>
 
 <div align="center">
