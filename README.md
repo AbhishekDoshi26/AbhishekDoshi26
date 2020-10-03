@@ -30,7 +30,7 @@
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
 
 
-
+<br>
 
 **Languages and Tools:**  
 
@@ -38,7 +38,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/java.svg"></code>
-
+<br>
 <a href="https://github.com/AbhishekDoshi26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="250px"/>
 </a>
@@ -51,6 +51,7 @@
 <a href="https://github.com/AbhishekDoshi26/Shoppping-UI">
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UI&theme=dark" />
 </a>
+
 
 
 <div align="center">
