@@ -40,16 +40,16 @@
 <code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/java.svg"></code>
 
 <a href="https://github.com/AbhishekDoshi26">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="40px"/>
 </a>
 <a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="40px"/>
 </a>
 <a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=light" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/Shoppping-UI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UI&theme=light" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UI&theme=dark" />
 </a>
 
 
