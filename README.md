@@ -27,9 +27,7 @@
 - 💬 Ask me about Flutter or any tech related stuff.
 - 📫 How to reach me: [Twitter](https://twitter.com/AbhishekDoshi26) , [Instagram](https://www.instagram.com/_abhishek_doshi/) , [Linkedin](https://www.linkedin.com/in/abhishek-doshi-520983199/)
 - ⚡ Fun fact: I am happy!
-- Visitors:
-<a href="https://www.hitwebcounter.com" target="_blank">
-<img src="https://hitwebcounter.com/counter/counter.php?page=7683210&style=0036&nbdigits=5&type=page&initCount=0" title="Total Website Hits" Alt="Web Hits"   border="0" /></a>                                    
+- Visitors:  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
 
 
 
