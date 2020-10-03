@@ -46,10 +46,10 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats"/>
 </a>
 <a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=light" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/Shoppping-UI">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UI&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=Shoppping-UI&theme=light" />
 </a>
 
 
