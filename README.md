@@ -43,7 +43,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="250px"/>
 </a>
 <a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="250px"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="250px" width="300px"/>
 </a>
 <a href="https://github.com/AbhishekDoshi26/contactus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
