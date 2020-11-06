@@ -4,13 +4,13 @@
 <a href="https://twitter.com/AbhishekDoshi26">
   <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhishek-doshi-520983199/">
+<a href="https://www.linkedin.com/in/AbhishekDoshi26/">
   <img align="left" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 <a href="https://github.com/AbhishekDoshi26">
   <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://www.instagram.com/_abhishek_doshi/">
+<a href="https://www.instagram.com/abhishekdoshi26/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://abhishekdoshi.netlify.app/">
