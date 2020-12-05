@@ -25,7 +25,7 @@
 
 - 🔭 I’m currently working on Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter](https://twitter.com/AbhishekDoshi26) , [Instagram](https://www.instagram.com/_abhishek_doshi/) , [Linkedin](https://www.linkedin.com/in/abhishek-doshi-520983199/)
+- 📫 How to reach me: [Twitter](https://twitter.com/AbhishekDoshi26) , [Instagram](https://www.instagram.com/abhishekdoshi26/) , [Linkedin](https://www.linkedin.com/in/AbhishekDoshi26/)
 - ⚡ Fun fact: I am happy!
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
 
