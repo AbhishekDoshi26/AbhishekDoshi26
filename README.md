@@ -2,20 +2,27 @@
 
 
 <a href="https://twitter.com/AbhishekDoshi26">
-  <img align="left" alt="Abhishek's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Abhishek's Twitter" width="40px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://www.linkedin.com/in/AbhishekDoshi26/">
-  <img align="left" alt="Abhishek's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <img align="left" alt="Abhishek's Linkdein" width="40px" src="http://pngimg.com/uploads/linkedIn/linkedIn_PNG38.png" />
 </a>
 <a href="https://github.com/AbhishekDoshi26">
-  <img align="left" alt="Abhishek's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Abhishek's Github" width="35px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://www.instagram.com/abhishekdoshi26/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+  <img align="left" alt="Abhishek's Instagram" width="35px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
 <a href="https://abhishekdoshi.netlify.app/">
-  <img align="left" alt="Abhishek's Portfolio" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/flutter.svg" />
+  <img align="left" alt="Abhishek's Medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" />
 </a>
+<a href="https://abhishekdoshi.netlify.app/">
+  <img align="left" alt="Abhishek's Portfolio" width="35px" src="https://www.freepnglogos.com/uploads/logo-website-png/logo-website-website-logo-png-transparent-background-background-15.png" />
+</a>
+<a href="https://www.buymeacoffee.com/abhishekdoshi26">
+  <img align="left" alt="BMC" width="25px" src="https://bmc-dev.s3.us-east-2.amazonaws.com/assets/icons/bmc_icon_black.png" />
+</a>
+
 
 
 <br/>
@@ -25,19 +32,12 @@
 
 - 🔭 I’m currently working on Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
-- 📫 How to reach me: [Twitter](https://twitter.com/AbhishekDoshi26) , [Instagram](https://www.instagram.com/abhishekdoshi26/) , [Linkedin](https://www.linkedin.com/in/AbhishekDoshi26/)
 - ⚡ Fun fact: I am happy!
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
 
 
 <br>
 
-**Languages and Tools:**  
-
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
-<code><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.10.0/icons/java.svg"></code>
 <br>
 <a href="https://github.com/AbhishekDoshi26">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekDoshi26&theme=dark&hide_langs_below=1" height="220px"/>
@@ -53,11 +53,20 @@
 </a>
 
 
+<br><br>
+
+<div align="center">
+
+<a href="https://www.buymeacoffee.com/abhishekdoshi26"><img height=150 src="https://miro.medium.com/max/1400/1*VqLYs481X9kw_CTosgqlcg.png"></img></a>
+
+</div>
+
 
 <div align="center">
 
 
-### Show some ❤️ by starring some of the repositories!
+### Show some ❤️ by buying me a coffee or starring some of the repositories!
 
 </div>
+
 
