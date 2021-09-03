@@ -13,7 +13,7 @@
 <a href="https://www.instagram.com/abhishekdoshi26/">
   <img align="left" alt="Abhishek's Instagram" width="35px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c521.png" />
 </a>
-<a href="https://abhishekdoshi.netlify.app/">
+<a href="https://abhishekdoshi26.medium.com">
   <img align="left" alt="Abhishek's Medium" width="35px" src="https://cdn.iconscout.com/icon/free/png-512/medium-47-433328.png" />
 </a>
 <a href="https://abhishekdoshi.netlify.app/">
