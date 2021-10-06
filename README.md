@@ -1,7 +1,7 @@
-## Wohoaa!, I'm [Abhishek Doshi!](https://abhishekdoshi.netlify.app/) 👋
+## Wohoaa!, I'm [Abhishek Doshi!](https://abhishekdoshi.netlify.app/) 👋<br>I am Google Developer Expert - Dart & Flutter 💙 
 
 
-<a href="https://twitter.com/AbhishekDoshi26">
+<br><a href="https://twitter.com/AbhishekDoshi26">
   <img align="left" alt="Abhishek's Twitter" width="40px" src="https://assets.stickpng.com/images/580b57fcd9996e24bc43c53e.png" />
 </a>
 <a href="https://www.linkedin.com/in/AbhishekDoshi26/">
