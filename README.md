@@ -32,7 +32,6 @@
 
 - 🔭 I’m currently working on Flutter.
 - 💬 Ask me about Flutter or any tech related stuff.
-- ⚡ Fun fact: I am happy!
 - ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
 
 
