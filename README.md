@@ -52,6 +52,7 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=dark" />
 </a>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=AbhishekDoshi26&theme=dark)](https://github.com/AbhishekDoshi26)
 
 <br><br>
 
