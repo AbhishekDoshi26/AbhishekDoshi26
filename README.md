@@ -48,9 +48,7 @@
 <a href="https://github.com/AbhishekDoshi26/contactus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
 </a>
-<a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=dark" />
-</a>
+
 
 
 <br><br>
