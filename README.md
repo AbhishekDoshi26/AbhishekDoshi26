@@ -48,14 +48,16 @@
 <a href="https://github.com/AbhishekDoshi26/contactus">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
 </a>
-
+<a href="https://github.com/AbhishekDoshi26/super_extensions">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=dark" />
+</a>
 
 
 <br><br>
 
 <div align="center">
 
-<a href="https://www.buymeacoffee.com/abhishekdoshi26"><img height=150 src="https://miro.medium.com/max/1400/1*VqLYs481X9kw_CTosgqlcg.png"></img></a>
+<a href="https://www.buymeacoffee.com/abhishekdoshi26"><img height=100 src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif"></img></a>
 
 </div>
 
