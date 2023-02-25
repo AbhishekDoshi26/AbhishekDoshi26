@@ -54,11 +54,11 @@
 ##
 
 <a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="180px" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="150px" />
 </a>
 
 <a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://streak-stats.demolab.com?user=AbhishekDoshi26&theme=dark" alt="Abhishek's github stats" height="180px" />
+ <img align="center" src="https://streak-stats.demolab.com?user=AbhishekDoshi26&theme=dark" alt="Abhishek's github stats" height="150px" />
 </a>
 
 <br><br>
