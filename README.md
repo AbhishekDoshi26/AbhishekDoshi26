@@ -1,84 +1,49 @@
-## Wohoaa!, I'm [Abhishek Doshi!](https://abhishekdoshi.netlify.app/) 👋<br>I am Google Developer Expert - Dart, Flutter & Firebase 💙💛 
-
-
+# 💫 About Me:
+🔭 I am a Google Developer Expert for Dart, Flutter & Firebase 💙💛<br>🤝 I love to help with Community Work<br>💙 I am the Organizer of Flutter Conf India - India's Largest Flutter Conference!<br>💬 Ask me about Flutter, Firebase and Community in general.<br>
 <br>
-<a href="https://twitter.com/AbhishekDoshi26">
-  <img align="left" alt="Abhishek's Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-</a>
 
-<a href="https://www.linkedin.com/in/AbhishekDoshi26/">
-  <img align="left" alt="Abhishek's Linkdein" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://www.instagram.com/abhishekdoshi26/">
-  <img align="left" alt="Abhishek's Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="https://abhishekdoshi26.medium.com">
-  <img align="left" alt="Abhishek's Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-
-<a href="https://www.buymeacoffee.com/abhishekdoshi26">
-  <img align="left" alt="BMC" src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" />
-</a>
-
-
-
-<br/>
-<br/>
-
-
-
-- 🔭 I’m currently working on Flutter.
-- 💬 Ask me about Flutter or any tech related stuff.
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)                                 
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbhishekDoshi26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekDoshi26) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AbhishekDoshi26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12574439) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhishekDoshi26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhishekDoshi26) 
 
 <br>
 
-## Flutter Packages published by me:
+## 💻 Tech Stack:
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+
+<br>
+
+## 📊 GitHub Stats:
+<img src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
+
+<br>
+
+## 📦 Flutter Packages:
 
 <a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=dark" />
+ <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=dark" />
-</a>
-
-<br><br>
-##
-
-<a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&show_icons=true&theme=dark&line_height=27" alt="Abhishek's github stats" height="150px" />
-</a>
-
-<a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://streak-stats.demolab.com?user=AbhishekDoshi26&theme=dark" alt="Abhishek's github stats" height="150px" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
 </a>
 
 <br><br>
 
-<a href="https://github.com/AbhishekDoshi26">
- <img align="center" src="https://github-profile-trophy.vercel.app/?username=AbhishekDoshi26&theme=dracula" alt="Abhishek's github stats" />
-</a>
 
-<div align="center">
-
-<a href="https://www.buymeacoffee.com/abhishekdoshi26"><img height=100 src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif"></img></a>
-
-</div>
+## 🏆 GitHub Trophies
+<img src="https://github-profile-trophy.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 
-<div align="center">
 
+<br><br>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### Show some ❤️ by buying me a coffee or starring some of the repositories!
+---
 
-</div>
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)   
 
-
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/AbhishekDoshi26) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AbhishekDoshi26) 
