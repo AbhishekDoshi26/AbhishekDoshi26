@@ -13,20 +13,20 @@
 <br>
 
 ## 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
+<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
 
 <br>
 
 ## 📦 Flutter Packages:
 
 <a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
+  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
+ <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
 </a>
 <a href="https://github.com/AbhishekDoshi26/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
+  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
 </a>
 
 <br><br>
