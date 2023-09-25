@@ -33,7 +33,7 @@
 
 
 ## 🏆 GitHub Trophies
-<img src="https://github-profile-trophy.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+<img src="https://github-trophies.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 
 
