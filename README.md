@@ -1,48 +1,90 @@
-# 💫 About Me:
-🔭 I am a Google Developer Expert for Dart, Flutter & Firebase 💙💛<br>🤝 I love to help with Community Work<br>💙 I am the Organizer of Flutter Conf India - India's Largest Flutter Conference!<br>💬 Ask me about Flutter, Firebase and Community in general.<br>
-<br>
+<div align="center">
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/AbhishekDoshi26) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/AbhishekDoshi26) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@AbhishekDoshi26) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/12574439) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/AbhishekDoshi26) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@AbhishekDoshi26) 
+# Hi there, I'm Abhishek Doshi! <img src="https://media.giphy.com/media/hvRJCLFzcasr14yMyCR/giphy.gif" width="35">
 
-<br>
-
-## 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 	![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
-<br>
-
-## 📊 GitHub Stats:
-<img src="https://github-readme-stats-abhishekdoshi26.vercel.app/api?username=AbhishekDoshi26&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height=150px>  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekDoshi26&theme=radical&hide_border=false" height=150px><br/>
-
-<br>
-
-## 📦 Flutter Packages:
-
-<a href="https://github.com/AbhishekDoshi26/contactus">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=contactus&theme=radical" />
-</a>
-<a href="https://github.com/AbhishekDoshi26/super_extensions">
- <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=super_extensions&theme=radical" />
-</a>
-<a href="https://github.com/AbhishekDoshi26/parent-child-checkbox">
-  <img align="center" src="https://github-readme-stats-abhishekdoshi26.vercel.app/api/pin/?username=AbhishekDoshi26&repo=parent-child-checkbox&theme=radical" />
+<!-- Responsive Dynamic Typing Header -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=02569B&center=true&vCenter=true&width=400&lines=Google+Developer+Expert;Dart,+Flutter+%26+Firebase;DevRel+%40+Shorebird" alt="Typing SVG" />
 </a>
 
-<br><br>
+<p align="center">
+  <b>Building scalable solutions, empowering the global developer community, and obsessing over clean architecture.</b>
+</p>
 
+<!-- Socials using unified Skill Icons -->
+<p align="center">
+  <a href="https://twitter.com/AbhishekDoshi26"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" /></a>
+  <a href="https://linkedin.com/in/AbhishekDoshi26"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://instagram.com/AbhishekDoshi26"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://stackoverflow.com/users/12574439"><img src="https://skillicons.dev/icons?i=stackoverflow" alt="StackOverflow" /></a>
+</p>
 
-## 🏆 GitHub Trophies
-<img src="https://github-trophies.vercel.app/?username=AbhishekDoshi26&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
+</div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+### 🚀 About Me
 
-<br><br>
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+* 🔭 **Current Focus:** Shaping developer experiences at **Shorebird** and leading **Zeth Technologies**.
+* 🌟 **Expertise:** **Google Developer Expert for Dart, Flutter & Firebase**.
+* 🎤 **Community:** Lead Organizer of **Flutter Conf India** — India's largest Flutter conference.
+* ⚡ **Beyond the Code:** When I'm away from the keyboard, you'll probably find me powering through my gym routine, tending to my indoor plants, or unwinding with an open-ended video game.
 
----
+<br>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=AbhishekDoshi26.AbhishekDoshi26)   
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-  ## 💰 You can help me by [Sponsoring](https://github.com/sponsors/AbhishekDoshi26/) and supporting my Open-Source Work ❤️
+### 🛠️ Tech Arsenal
+
+<div align="center">
+  <p><b>Mobile & Web</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=dart,flutter" alt="Frontend" />
+  </a>
+  <br><br>
+  <p><b>Backend & Cloud</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,sqlite" alt="Backend" />
+  </a>
+  <br><br>
+  <p><b>Tools & Platforms</b></p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=netlify,heroku,github,vscode" alt="Tools" />
+  </a>
+</div>
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 📦 Featured Open Source
+
+* 🔹 [**ContactUs**](https://github.com/AbhishekDoshi26/contactus) <br> Easily add a comprehensive contact-us screen in your Flutter app.
+* 🔹 [**Super Extensions**](https://github.com/AbhishekDoshi26/super_extensions) <br> A collection of powerful extension methods to supercharge your Dart/Flutter development.
+* 🔹 [**Parent-Child Checkbox**](https://github.com/AbhishekDoshi26/parent-child-checkbox) <br> A simplified way to manage nested checkbox states in Flutter.
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+### 🐍 Contribution Activity
+
+> *Eating up commits, one push at a time.*
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" style="max-width: 100%;" src="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🤝 Support My Work</h3>
+  <p>If my open-source projects or community work have helped you, consider supporting me!</p>
+  <a href="https://github.com/sponsors/AbhishekDoshi26/">
+    <img src="https://img.shields.io/badge/Sponsor_Me-%23EA4AAA.svg?style=for-the-badge&logo=githubsponsors&logoColor=white" alt="Sponsor" />
+  </a>
+</div>
