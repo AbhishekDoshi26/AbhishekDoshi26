@@ -25,7 +25,7 @@
 
 ### 🚀 About Me
 
-* 🔭 **Current Focus:** Shaping developer experiences at **Shorebird** and leading **Zeth Technologies**.
+* 🔭 **Current Focus:** Shaping developer experiences at **Shorebird**.
 * 🌟 **Expertise:** **Google Developer Expert for Dart, Flutter & Firebase**.
 * 🎤 **Community:** Lead Organizer of **Flutter Conf India** — India's largest Flutter conference.
 * ⚡ **Beyond the Code:** When I'm away from the keyboard, you'll probably find me powering through my gym routine, tending to my indoor plants, or unwinding with an open-ended video game.
