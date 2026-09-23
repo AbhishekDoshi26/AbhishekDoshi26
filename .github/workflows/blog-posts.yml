@@ -13,7 +13,54 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: gautamkrishnar/blog-post-workflow@v1
-        with:
-          feed_list: 'https://abhishekdoshi26.medium.com/feed'
-          max_post_count: 5
+
+      - name: Build article thumbnails from Medium feed
+        run: |
+          python3 - <<'EOF'
+          import re, html, urllib.request, xml.etree.ElementTree as ET
+
+          FEED = "https://abhishekdoshi26.medium.com/feed"
+          MAX_POSTS = 4
+          PER_ROW = 2
+
+          req = urllib.request.Request(FEED, headers={"User-Agent": "Mozilla/5.0"})
+          root = ET.fromstring(urllib.request.urlopen(req).read())
+          ns = {"content": "http://purl.org/rss/1.0/modules/content/"}
+
+          cells = []
+          for item in root.findall("./channel/item")[:MAX_POSTS]:
+              title = html.escape(item.findtext("title", "").strip())
+              link = item.findtext("link", "").split("?")[0]
+              body = item.findtext("content:encoded", default="", namespaces=ns)
+              m = re.search(r'<img[^>]+src="([^"]+)"', body)
+              img = ""
+              if m:
+                  img = "https://cdn-images-1.medium.com/fit/c/800/420/" + m.group(1).rstrip("/").split("/")[-1]
+              cells.append(
+                  f'<td width="50%" align="center" valign="top">'
+                  f'<a href="{link}"><img src="{img}" alt="{title}" width="100%" /></a><br>'
+                  f'<a href="{link}"><b>{title}</b></a></td>'
+              )
+
+          rows = ["<tr>" + "".join(cells[i:i + PER_ROW]) + "</tr>" for i in range(0, len(cells), PER_ROW)]
+          block = "<table>\n" + "\n".join(rows) + "\n</table>"
+
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+          new = re.sub(
+              r"(<!-- BLOG-POST-LIST:START -->).*?(<!-- BLOG-POST-LIST:END -->)",
+              lambda m: m.group(1) + "\n" + block + "\n" + m.group(2),
+              readme,
+              flags=re.S,
+          )
+          if new != readme:
+              with open("README.md", "w", encoding="utf-8") as f:
+                  f.write(new)
+          EOF
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git diff --cached --quiet || (git commit -m "Update latest articles" && git push)
