@@ -67,11 +67,10 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
-- [Full-Stack AI in Dart: Because Learning Python is for Snakes](https://medium.com/google-developer-experts/ai-in-dart-5070243b0407?source=rss-bc6f891fe1dd------2)
-- [Flutter at Google I/O 2026](https://medium.com/google-developer-experts/flutter-at-google-i-o-2026-a02cc82097ae?source=rss-bc6f891fe1dd------2)
-- [Shorebird CodePush — Your Saviour!](https://medium.com/google-developer-experts/shorebird-codepush-3a807ca7fb76?source=rss-bc6f891fe1dd------2)
-- [Shorebird — Hidden Gem for Flutter](https://medium.com/google-developer-experts/shorebird-hidden-gem-for-flutter-e76ef88dafb1?source=rss-bc6f891fe1dd------2)
-- [Power of BuildContext in Flutter](https://medium.com/google-developer-experts/build-context-62dbe933bff8?source=rss-bc6f891fe1dd------2)
+<table>
+<tr><td width="50%" align="center" valign="top"><a href="https://medium.com/google-developer-experts/ai-in-dart-5070243b0407"><img src="https://cdn-images-1.medium.com/fit/c/800/420/1*_29Gkr5kri0pZ1YoTKDYFA.jpeg" alt="Full-Stack AI in Dart: Because Learning Python is for Snakes" width="100%" /></a><br><a href="https://medium.com/google-developer-experts/ai-in-dart-5070243b0407"><b>Full-Stack AI in Dart: Because Learning Python is for Snakes</b></a></td><td width="50%" align="center" valign="top"><a href="https://medium.com/google-developer-experts/flutter-at-google-i-o-2026-a02cc82097ae"><img src="https://cdn-images-1.medium.com/fit/c/800/420/0*EN5WixR-doRj9r-B.png" alt="Flutter at Google I/O 2026" width="100%" /></a><br><a href="https://medium.com/google-developer-experts/flutter-at-google-i-o-2026-a02cc82097ae"><b>Flutter at Google I/O 2026</b></a></td></tr>
+<tr><td width="50%" align="center" valign="top"><a href="https://medium.com/google-developer-experts/shorebird-codepush-3a807ca7fb76"><img src="https://cdn-images-1.medium.com/fit/c/800/420/0*kv8bCeyYkBnd3BIn.jpg" alt="Shorebird CodePush — Your Saviour!" width="100%" /></a><br><a href="https://medium.com/google-developer-experts/shorebird-codepush-3a807ca7fb76"><b>Shorebird CodePush — Your Saviour!</b></a></td><td width="50%" align="center" valign="top"><a href="https://medium.com/google-developer-experts/shorebird-hidden-gem-for-flutter-e76ef88dafb1"><img src="https://cdn-images-1.medium.com/fit/c/800/420/1*T7vgOPgSu-STtVB9nKQvbg.png" alt="Shorebird — Hidden Gem for Flutter" width="100%" /></a><br><a href="https://medium.com/google-developer-experts/shorebird-hidden-gem-for-flutter-e76ef88dafb1"><b>Shorebird — Hidden Gem for Flutter</b></a></td></tr>
+</table>
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://abhishekdoshi26.medium.com"><img src="https://img.shields.io/badge/Read_more_on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
