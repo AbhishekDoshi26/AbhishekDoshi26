@@ -20,6 +20,7 @@
   <a href="https://stackoverflow.com/users/12574439"><img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" /></a>
 </p>
 
+<a href="https://github.com/AbhishekDoshi26?tab=followers"><img src="https://img.shields.io/github/followers/AbhishekDoshi26?style=flat-square&logo=github&label=Followers&color=0175C2" alt="Followers" /></a>
 <img src="https://komarev.com/ghpvc/?username=AbhishekDoshi26&style=flat-square&color=0175C2&label=Profile+Views" alt="Profile views" />
 
 </div>
@@ -35,7 +36,7 @@
 - 🐦 **Developer Relations Engineer** at [**Shorebird**](https://shorebird.dev), helping Flutter teams ship fixes and updates instantly with code push, no app store wait.
 - 🌟 **Google Developer Expert** for **Dart, Flutter & Firebase**.
 - 💙 Building with **Flutter since 2018**.
-- 🎤 **Lead Organizer** of **Flutter Conf India**, India's largest Flutter conference.
+- 💬 **Ask me about:** Flutter, Dart, Firebase, code push, and developer communities.
 - ⚡ **Away from the keyboard:** gym sessions, indoor plants, and open-world video games.
 
 </td>
@@ -63,6 +64,15 @@
 
 <br>
 
+## ✍️ Latest Articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+<a href="https://abhishekdoshi26.medium.com"><img src="https://img.shields.io/badge/Read_more_on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
+
+<br>
+
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -85,11 +95,9 @@
 
 <br>
 
-## 📊 GitHub Stats
+## 🔥 Commit Streak
 
 <div align="center">
-
-<img src="https://img.shields.io/github/followers/AbhishekDoshi26?style=for-the-badge&logo=github&color=0175C2" alt="Followers" />
 
 <img height="165" src="https://streak-stats.demolab.com?user=AbhishekDoshi26&theme=transparent&hide_border=true&ring=0175C2&fire=13B9FD&currStreakLabel=0175C2" alt="GitHub streak" />
 
