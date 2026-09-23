@@ -97,12 +97,16 @@
 
 <br>
 
-## 🟦 Contribution Activity
+## 👾 Pac-Man Contribution Graph
 
-> *Eating up commits, one push at a time.*
+> *Waka waka! Pac-Man eats up my commits, one push at a time.*
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/0175C2/AbhishekDoshi26" alt="GitHub contribution chart" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/pacman-contribution-graph.svg">
+    <img alt="Pac-Man eating my GitHub contribution graph" src="https://raw.githubusercontent.com/AbhishekDoshi26/AbhishekDoshi26/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 <br>
