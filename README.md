@@ -67,6 +67,11 @@
 ## ✍️ Latest Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Full-Stack AI in Dart: Because Learning Python is for Snakes](https://medium.com/google-developer-experts/ai-in-dart-5070243b0407?source=rss-bc6f891fe1dd------2)
+- [Flutter at Google I/O 2026](https://medium.com/google-developer-experts/flutter-at-google-i-o-2026-a02cc82097ae?source=rss-bc6f891fe1dd------2)
+- [Shorebird CodePush — Your Saviour!](https://medium.com/google-developer-experts/shorebird-codepush-3a807ca7fb76?source=rss-bc6f891fe1dd------2)
+- [Shorebird — Hidden Gem for Flutter](https://medium.com/google-developer-experts/shorebird-hidden-gem-for-flutter-e76ef88dafb1?source=rss-bc6f891fe1dd------2)
+- [Power of BuildContext in Flutter](https://medium.com/google-developer-experts/build-context-62dbe933bff8?source=rss-bc6f891fe1dd------2)
 <!-- BLOG-POST-LIST:END -->
 
 <a href="https://abhishekdoshi26.medium.com"><img src="https://img.shields.io/badge/Read_more_on-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /></a>
